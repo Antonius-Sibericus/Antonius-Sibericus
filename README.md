@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning Angular<br>🎯 Goals: get a position as a Frontend Developer</p>
+<p align="left">✨ Creating bugs since 2024<br>📚 I'm currently learning Angular<br>🎯 Goals: get a position as a Frontend Developer</p>
 
 ###
 
