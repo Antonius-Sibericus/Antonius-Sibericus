@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2024<br>📚 I know the principles of React and currently learning Angular<br>🎯 Goals: get a position as a Frontend Developer</p>
+<p align="left">✨ Creating bugs since 2024<br>📚 I know the principles of React and currently learning Angular<br>📚 I can write a single-page application with JS/TS/Webpack<br>🎯 Goals: get a position as a Frontend Developer</p>
 
 ###
 
