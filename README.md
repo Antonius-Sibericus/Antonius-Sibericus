@@ -6,7 +6,7 @@
 
 ###
 
-<h4 align="left">About</h4>
+<h4 align="left">Обо мне</h4>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">Технологии</h2>
 
 ###
 
